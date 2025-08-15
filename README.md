@@ -4,7 +4,7 @@
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
 
 ## DESIGN STEPS:
-
+.
 ### **Step 1: Install  VirtualBox**
 
 ### **Installation Steps:**
